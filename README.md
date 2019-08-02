@@ -1,2 +1,4 @@
-# laravel-securionpay
-Easy to use Laravel implementation for SecurionPay
+# Laravel SecurionPay
+Easy to use SecurionPay API implementation for Laravel.
+
+# WORK IN PROGRESS
